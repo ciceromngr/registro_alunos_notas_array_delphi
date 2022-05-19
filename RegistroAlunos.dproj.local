@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/13 11:17:19.000.303,=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/19 14:45:34.877,=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/19 16:27:59.480,D:\GIT\PROJECTS_DELPHI\CRIAR_NOTAS_ALUNOS_ARRAYS\src\uRegistroAlunosNotas.dfm=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/19 16:27:59.480,D:\GIT\PROJECTS_DELPHI\CRIAR_NOTAS_ALUNOS_ARRAYS\src\uRegistroAlunosNotas.pas=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/19 16:28:29.433,D:\GIT\PROJECTS_DELPHI\CRIAR_NOTAS_ALUNOS_ARRAYS\RegistroAlunos.dproj=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
